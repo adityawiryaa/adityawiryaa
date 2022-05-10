@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityawiryaa
 - 👀 I’m interested in technology, Development, Business, and the future.
-- 🌱 I’m currently learning Go, Blockchain, and Design Pattern
+- 🌱 I’m currently learning Go, NodeJS, Blockchain, Web3
 - 📫 let's talk on adityawiryamaulana.com
 
 <!---
