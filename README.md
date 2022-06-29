@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Wirya Maulana</h1>
 <h3 align="center">A fulltime learner</h3>
 
-- 🌱 I’m currently learning **Go, Blockchain**
+- 🌱 I’m currently learning **Go, NodeJS, Blockchain**
 
 - 👨‍💻 All of my projects are available at [adityawiryamaulana.com](adityawiryamaulana.com)
 
