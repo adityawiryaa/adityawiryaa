@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go, NodeJS, Blockchain**
 
-- 👨‍💻 All of my projects are available at [adityawiryamaulana.com](adityawiryamaulana.com)
+- 👨‍💻 All of my projects are available at [https://adityawiryamaulana.com/](https://adityawiryamaulana.com/)
 
 - 📫 How to reach me **adityawiryamaulana@gmail.com**
 
