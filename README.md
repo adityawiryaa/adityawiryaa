@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go, Automation And Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://wirya.co/](https://wirya.co/)
+- 👨‍💻 All of my projects are available at [here](https://wirya.vercel.app/)
 
 - 📫 How to reach me **adityawiryamaulana@gmail.com**
 
