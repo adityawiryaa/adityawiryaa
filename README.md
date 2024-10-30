@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Wirya Maulana</h1>
 <h3 align="center">A fulltime learner</h3>
 
-- 🌱 I’m currently learning **Go, Automation And Blockchain**
+- 🌱 I’m currently learning **Java, Spring Boot 3, AI, LLM, Vector Database, And Automation**
 
-- 👨‍💻 All of my projects are available at [here](https://wirya.vercel.app/)
+- 👨‍💻 All of my projects are available at [here](https://wirya.dev/)
 
 - 📫 How to reach me **adityawiryamaulana@gmail.com**
 
